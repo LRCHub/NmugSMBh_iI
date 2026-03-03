@@ -1,92 +1,98 @@
-# Maroon 5 – Maps
+# マルーン5 – マップス
 
-> **歌詞登録ステータス：同期歌詞あり**
+> **歌詞登録ステータス：プレーン歌詞のみ**
 
-```lrc
-[00:00.31] I miss the taste of a sweeter life
-[00:04.24] I miss the conversation
-[00:08.28] I'm searching for a song tonight
-[00:12.50] I'm changing all of the stations
-[00:28.50] 
-[00:16.48] I like to think that we had it all
-[00:20.39] We drew a map to a better place
-[00:24.35] But on that road, I took a fall
-[00:28.34] Oh baby, why did you run away?
-[00:43.34] 
-[00:31.29] I was there for you in your darkest times
-[00:35.44] I was there for you in your darkest night
-[00:55.94] 
-[00:39.31] But I wonder, where were you?
-[00:41.89] When I was at my worst down on my knees
-[00:45.85] And you said you had my back
-[00:47.32] So I wonder, where were you?
-[00:49.62] When all the roads you took came back to me
-[00:53.44] So I'm following the map that leads to you
-[01:14.44] 
-[00:56.68] The map that leads to you
-[00:58.94] Ain't nothing I can do
-[01:00.88] The map that leads to you
-[01:02.14] Following, following, following to you
-[01:21.14] 
-[01:05.04] The map that leads to you
-[01:06.89] Ain't nothing I can do
-[01:08.90] The map that leads to you
-[01:10.55] Following, following, following
-[01:26.05] 
-[01:12.34] I hear your voice in my sleep at night
-[01:16.41] Hard to resist temptation
-[01:20.23] 'Cause something strange has come over me
-[01:23.46] Now, I can't get over you
-[01:27.35] No, I just can't get over you
-[01:41.85] 
-[01:31.35] I was there for you in your darkest times
-[01:35.50] I was there for you in your darkest night
-[01:56.00] 
-[01:39.46] But I wonder, where were you?
-[01:41.80] When I was at my worst down on my knees
-[01:45.99] And you said you had my back
-[01:47.26] So I wonder, where were you?
-[01:49.68] When all the roads you took came back to me
-[01:53.57] So I'm following the map that leads to you
-[02:14.57] 
-[01:56.72] The map that leads to you
-[01:58.92] Ain't nothing I can do
-[02:00.87] The map that leads to you
-[02:02.26] Following, following, following to you
-[02:21.26] 
-[02:04.64] The map that leads to you
-[02:06.96] Ain't nothing I can do
-[02:08.71] The map that leads to you
-[02:21.21] 
-[02:11.27] Oh, oh, oh, ah
-[02:13.28] Oh, oh, oh, ah
-[02:15.46] Ye, ye, ye, ah
-[02:17.35] Ah, ah, mmh, ah
-[02:24.85] 
-[02:19.23] Oh, I was there for you
-[02:21.34] Oh, in your darkest times
-[02:23.50] Oh, I was there for you
-[02:25.49] Oh, in your darkest night
-[02:37.99] 
-[02:27.24] Oh, I was there for you
-[02:29.49] Oh, in your darkest times
-[02:31.53] Oh, I was there for you
-[02:33.48] Oh, in your darkest night
-[02:45.98] 
-[02:35.12] But I wonder, where were you?
-[02:37.86] When I was at my worst down on my knees
-[02:41.96] And you said you had my back
-[02:43.26] So I wonder, where were you?
-[02:45.72] When all the roads you took came back to me
-[02:49.45] So I'm following the map that leads to you
-[03:10.45] 
-[02:52.63] The map that leads to you
-[02:54.62] Ain't nothing I can do
-[02:56.94] The map that leads to you
-[02:58.40] Following, following, following to you
-[03:17.40] 
-[03:00.90] The map that leads to you
-[03:02.61] Ain't nothing I can do
-[03:05.12] The map that leads to you
-[03:06.33] Following, following, following
+```
+I miss the taste
+of a sweeter life
+I miss the conversation
+I'm searching
+for a song tonight
+I'm changing
+all of the stations
+I like to think
+that we had it all
+We drew a map to a better place
+But on that road I took a fall
+Oh baby why did you run away?
+I was there for you
+In your darkest times
+I was there for you
+In your darkest night
+But I wonder where were you
+When I was at my worst
+Down on my knees
+And you said you had my back
+So I wonder where were you
+When all the roads you took came
+back to me
+So I'm following the map
+that leads to you
+The map that leads to you
+Ain't nothing I can do
+The map that leads to you
+Following,following,following
+to you
+The map that leads to you
+Ain't nothing I can do
+The map that leads to you
+Following,following,following
+I hear your voice
+in my sleep at night
+Hard to resist temptation
+'Cause something strange
+has come over me
+And now I can't get over you
+No,I just can't get over you
+I was there for you
+In your darkest times
+I was there for you
+In your darkest night
+But I wonder where were you
+When I was at my worst
+Down on my knees
+And you said you had my back
+So I wonder where were you
+When all the roads you took came
+back to me
+So I'm following the map
+that leads to you
+The map that leads to you
+Ain't nothing I can do
+The map that leads to you
+Following,following,following
+to you
+The map that leads to you
+Ain't nothing I can do
+The map that leads to you
+Oh oh oh
+Oh oh oh
+Yeah yeah yeah
+Ah Ah Ah
+Oh,I was there for you
+Oh,in your darkest time
+Oh,I was there for you
+Oh,in your darkest night
+Oh,I was there for you
+Oh,in your darkest time
+Oh,I was there for you
+Oh,in your darkest night
+But I wonder where were you
+When I was at my worst
+Down on my knees
+And you said you had my back
+So I wonder where were you
+When all the roads you took came
+back to me
+So I'm following the map
+that leads to you
+The map that leads to you
+Ain't nothing I can do
+The map that leads to you
+Following,following,following
+to you
+The map that leads to you
+Ain't nothing I can do
+The map that leads to you
+Following,following,following
 ```
